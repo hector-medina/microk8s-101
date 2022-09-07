@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: "database-data"
+  namespace: nextcloud
+  labels:
+    type: "local"
+spec:
+  storageClassName: "manual"
+  capacity:
+    storage: <ENV-STORAGE-AMOUNT>
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: <ENV-PATH-TO-VOLUME-DATABASE>
