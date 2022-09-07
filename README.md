@@ -10,7 +10,7 @@ The following dependencies are required to have microk8s up and running:
 - Infrastructure: Raspberry Pi 4 8GB ARM64.
 - Domain: Public domain available for TLS encryption.
 
-## installation and setup.
+## Installation and setup.
 
 Installation and setup steps are described in the following file [Installation & setup docs](https://github.com/hector-medina/microk8s-101/blob/main/docs/1.%20Installation%20and%20setup.md)
 
