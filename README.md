@@ -26,4 +26,4 @@ It provides a fully-functional private cloud to store your data at home. Let's s
 microk8s kubectl apply -f apps/nextcloud/
 ```
 
-You can find more info at [setting up nextcloud](https://github.com/hector-medina/microk8s-101/blob/main/docs/2.%20Nextcloud.md)
+You can find more info at [setting up nextcloud docs](https://github.com/hector-medina/microk8s-101/blob/main/docs/2.%20Nextcloud.md)
