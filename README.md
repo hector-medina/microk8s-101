@@ -1,7 +1,4 @@
-# microk8s-101
-
-
-# MICROK8S (KUBERNETES)
+# MICROK8S 101 (Minimal K8S cluster)
 
 This repository intends to be an educational repository for learning microk8s. I use it myself in my private cluster at home, but it's not for working production. It explains how to install, setup and use [microk8s](https://microk8s.io/) a minimal kubernetes cluster orquestator.
 
